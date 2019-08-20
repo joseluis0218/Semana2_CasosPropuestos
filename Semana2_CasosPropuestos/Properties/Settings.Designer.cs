@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Semana2_CasosPropuestos.Properties {
+namespace Semana2_Caso01.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]

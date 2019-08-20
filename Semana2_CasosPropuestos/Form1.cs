@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.SqlClient;
 using System.Configuration;
-namespace Semana2_CasosPropuestos
+namespace Semana2_Caso01
 {
     public partial class Form1 : Form
     {

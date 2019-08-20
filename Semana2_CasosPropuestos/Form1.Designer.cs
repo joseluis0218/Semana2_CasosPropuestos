@@ -1,4 +1,4 @@
-﻿namespace Semana2_CasosPropuestos
+﻿namespace Semana2_Caso01
 {
     partial class Form1
     {
@@ -103,6 +103,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.CausesValidation = false;
             this.ClientSize = new System.Drawing.Size(794, 486);
             this.Controls.Add(this.txtNumero);
             this.Controls.Add(this.label4);

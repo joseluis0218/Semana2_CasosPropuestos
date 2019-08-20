@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{5DAB7D1C-28F0-4C28-8983-D40F4BD8183B}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Semana2_CasosPropuestos</RootNamespace>
-    <AssemblyName>Semana2_CasosPropuestos</AssemblyName>
+    <RootNamespace>Semana2_Caso01</RootNamespace>
+    <AssemblyName>Semana2_Caso01</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -66,6 +66,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
